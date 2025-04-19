@@ -55,6 +55,8 @@ Add the following to the .env file:
 
 ```
 LOGIN_URL=https://app.ninjarmm.com/auth/#/login
+VALID_EMAIL="<Your user's email>"
+VALID_PASSWORD="<Your user's password>"
 ```
 
 **Important:**  
